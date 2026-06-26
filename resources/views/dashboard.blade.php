@@ -462,7 +462,7 @@
                 </div>
                 <div style="display:flex; justify-content:space-between">
                     <span style="color:var(--muted)">Sensor</span>
-                    <span>DHT22</span>
+                    <span>SHT31</span>
                 </div>
                 <div style="display:flex; justify-content:space-between">
                     <span style="color:var(--muted)">Protokol</span>
